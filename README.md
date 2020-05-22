@@ -47,7 +47,7 @@ android {
     }
 }
 ```
-The plugin will automatically download pre-build native libraries from [here](https://github.com/X-dea/Flutter_VPN/releases) if they haven't been downloaded.
+The plugin will automatically download pre-build native libraries from [here](https://github.com/X-dea/Flutter_VPN/releases) if they haven't been downloaded. Try live deployed [free vpn](https://play.google.com/store/apps/details?id=com.jaguarvpn.jaguar_vpn&hl=en) from Google Play built with this repository.
 
 ### For iOS
 
